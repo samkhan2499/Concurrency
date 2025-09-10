@@ -1,4 +1,4 @@
-package prime_numbers_variations;
+package org.example.prime_numbers_variations;
 
 import java.time.Duration;
 import java.time.Instant;
